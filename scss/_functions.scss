@@ -1,3 +1,0 @@
-@function em($pixel, $context: 16px) {
-    @return ($pixel / $context) * 1em;
-}
